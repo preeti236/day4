@@ -1,4 +1,4 @@
-hello world Day 4 XDemo
+Day 4 XDemo
 git hub demo
 Day 2
 
